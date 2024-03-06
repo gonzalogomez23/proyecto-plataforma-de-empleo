@@ -1,0 +1,1 @@
+<img src="{{asset('img/devjobs.svg')}}" alt=""  {{ $attributes->merge(['class' => 'w-[250px] max-w-full']) }}>
